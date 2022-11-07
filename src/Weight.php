@@ -8,7 +8,9 @@ class Weight
      * @var float
      */
     private $kg;
-    public static function fromKg(float $kg):self{
+
+    public static function fromKg(float $kg): self
+    {
         return new static($kg);
     }
 
