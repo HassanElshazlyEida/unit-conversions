@@ -6,6 +6,3 @@ All notable changes to `unit-conversions` will be documented in this file.
 - change php version to be ^8.0
 ## 1.0.0 - 2022-11-07
 - initial release
-
-## 1.0.0 - 2022-11-7
-- initial release
