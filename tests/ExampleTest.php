@@ -1,7 +1,7 @@
 <?php
 
-use HassanElshazlyEida\UnitConversions\Weight;
 use HassanElshazlyEida\UnitConversions\Temperature\Temperature;
+use HassanElshazlyEida\UnitConversions\Weight;
 
 it('can convert kg to lbs', function () {
     $lbs = Weight::fromKg(100)->toLbs();
